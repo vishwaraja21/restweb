@@ -218,8 +218,8 @@ ul {
 ```
 
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
+![WhatsApp Image 2024-10-18 at 11 39 10_c2a1cce4](https://github.com/user-attachments/assets/b9ff0d6d-64b2-4a49-8220-c754159bd62a)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
